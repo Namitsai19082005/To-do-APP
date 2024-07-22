@@ -1,0 +1,11 @@
+.myRow
+{
+    text-align: left;
+    margin-bottom: 20px;
+    width: 100%;
+}
+
+.myButton
+{
+    min-width: 100%;
+}
